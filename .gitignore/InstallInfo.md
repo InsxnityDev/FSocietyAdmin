@@ -33,9 +33,3 @@ After installation you can use the following commands:
 [✔] Type on CMD: perl Xadmin.pl
 
 [✔] Type your target
-
-[◉] Ex: www.Israel.com or www.Isreal.com/path
-
-![alt tag](http://img15.hostingpics.net/pics/951380Screenshot291610160816062016CET042045.png)
-#Logo
-![alt tag](https://media.giphy.com/media/3o72Fi2tOJRVTbApd6/giphy.gif)
